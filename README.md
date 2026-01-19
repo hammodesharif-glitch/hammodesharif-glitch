@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Mohamad%20Al%20Charif&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=M1+Artificial+Intelligence+Student;AI+Engineer+in+Training;Predictive+Logistics+Specialist;Top+15%+Computer+Science+Graduate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=M1+Artificial+Intelligence+Student;AI+Engineer+in+Training;Predictive+Logistics+Specialist;Top+15%+Computer+Science+Graduate" alt="Typing SVG" />
   </a>
 
   <p align="center">
