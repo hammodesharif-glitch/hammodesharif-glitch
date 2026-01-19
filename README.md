@@ -1,21 +1,23 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Mohamad%20Al%20Charif&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <h3>🧠 AI Engineer in Training | M1 Artificial Intelligence Student</h3>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=M1+Artificial+Intelligence+Student;AI+Engineer+in+Training;Predictive+Logistics+Specialist;Top+15%+Computer+Science+Graduate" alt="Typing SVG" />
+  </a>
+
   <p align="center">
     <a href="https://www.linkedin.com/in/mohamad-al-charif-5b7922278"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:hammodesharif@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://mohamad-logistics-predictor.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-Logistics_AI-green?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
   </p>
 
-  ---
+  <img src="https://github-profile-trophy.vercel.app/?username=hammodesharif-glitch&theme=tokyonight&column=4&margin-w=15&no-bg=true" alt="Trophies" />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJidmc1bmR6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" />
-
-  *"Give me 40 days, and I will deliver AI models you can trust."*
-
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJidmc1bmR6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ## 🌌 The Mission
 I am a **French Student** and a **Top 15% (15/115) Computer Science Graduate** currently pursuing my **Master's in AI** at Aix-Marseille University. My focus is building **Reliable, Auditable, and Production-Ready AI**. I specialize in bridging the gap between raw data and business-critical decision tools.
@@ -42,11 +44,12 @@ I am a **French Student** and a **Top 15% (15/115) Computer Science Graduate** c
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ## 🏗️ Major Works
-### 🚢 [AI Logistics Predictor]([https://github.com/hammodesharif-glitch/ai-logistics-predictor](https://ai-logistics-predictor.streamlit.app/))
-> **ROC-AUC: 0.78 | Recall: 68%** > An end-to-end ML system analyzing 10,000+ shipments to predict delays. Optimized for **Supply Chain Reliability**.
+### 🚢 [AI Logistics Predictor](https://github.com/hammodesharif-glitch/ai-logistics-predictor)
+> **ROC-AUC: 0.78 | Recall: 68%**
+> An end-to-end ML system analyzing 10,000+ shipments to predict delays. Optimized for **Supply Chain Reliability**.
 
 ---
 
@@ -56,5 +59,8 @@ I am a **French Student** and a **Top 15% (15/115) Computer Science Graduate** c
 - **Achievement:** Former International Programming Instructor for students in 5+ countries.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2bXB6bnR6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L3YpT7fT04T4p3XmP9/giphy.gif" width="300"/>
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2bXB6bnR6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L3YpT7fT04T4p3XmP9/giphy.gif" width="200"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
 </div>
