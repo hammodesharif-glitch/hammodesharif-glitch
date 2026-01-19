@@ -60,5 +60,5 @@ I am a **French Student** and a **Top 15% (15/115) Computer Science Graduate** c
   <br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2bXB6bnR6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L3YpT7fT04T4p3XmP9/giphy.gif" width="200"/>
   <br/>
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFocTVkc3o3YXV1a2tlOTd0ZW1ydjVrZmR6M3d0Z2tzM3E0Y244ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif)" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
 </div>
