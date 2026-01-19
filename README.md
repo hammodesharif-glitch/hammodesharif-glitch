@@ -57,8 +57,5 @@ I am a **French Student** and a **Top 15% (15/115) Computer Science Graduate** c
 - **Achievement:** Former International Programming Instructor for students in 5+ countries.
 
 <div align="center">
-  <br/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NueXp3Y2Z0ZXR6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP30_AY9N6Za/giphy.gif" width="300" />
-  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
 </div>
