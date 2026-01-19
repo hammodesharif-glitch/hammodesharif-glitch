@@ -8,10 +8,8 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/mohamad-al-charif-5b7922278"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:hammodesharif@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://mohamad-logistics-predictor.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-Logistics_AI-green?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+    <a href="https://ai-logistics-predictor.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-Logistics_AI-green?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
   </p>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=hammodesharif-glitch&theme=tokyonight&column=4&margin-w=15&no-bg=true" alt="Trophies" />
 
   <br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJidmc1bmR6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
@@ -62,5 +60,5 @@ I am a **French Student** and a **Top 15% (15/115) Computer Science Graduate** c
   <br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2bXB6bnR6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L3YpT7fT04T4p3XmP9/giphy.gif" width="200"/>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFocTVkc3o3YXV1a2tlOTd0ZW1ydjVrZmR6M3d0Z2tzM3E0Y244ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif)" width="100%"/>
 </div>
