@@ -52,7 +52,7 @@ I am a **French Student** and a **Top 15% (15/115) Computer Science Graduate** c
 ---
 
 ## 🏆 Current Quest
-- **Target:** 8-week to 4-month Internship in Marseille (starting May 4, 2026).
+- **Target:** 8-week to 4-month Internship (starting May 4, 2026).
 - **Languages:** English (Fluent), French (B2), Arabic (Native).
 - **Achievement:** Former International Programming Instructor for students in 5+ countries.
 
