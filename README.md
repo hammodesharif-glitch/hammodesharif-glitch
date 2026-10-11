@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Mohamad%20Al%20Charif&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=M1+Artificial+Intelligence+Student;AI+Engineer+in+Training;Predictive+Logistics+Specialist;Top+15%+Computer+Science+Graduate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=M2+Artificial+Intelligence+Student;AI+Engineer+in+Training;Predictive+Logistics+Specialist;Top+15%+Computer+Science+Graduate" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/mohamad-al-charif-5b7922278"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/mohamad-al-charif"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:hammodesharif@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://ai-logistics-predictor.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-Logistics_AI-green?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
   </p>
@@ -52,7 +52,7 @@ I am a **French Student** and a **Top 15% (15/115) Computer Science Graduate** c
 ---
 
 ## 🏆 Current Quest
-- **Target:** 8-week to 4-month Internship (starting May 4, 2026).
+- **Target:** 5–6 month end-of-studies AI/ML Internship (starting April 2027).
 - **Languages:** English (Fluent), French (B2), Arabic (Native).
 - **Achievement:** Former International Programming Instructor for students in 5+ countries.
 
